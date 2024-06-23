@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-As a seasoned Senior Software Engineer and Development Team Lead, I have extensive experience in designing, developing, and managing complex software solutions across various industries, including SaaS applications, cloud migration platforms, and e-commerce solutions. My expertise spans frontend and backend development, cloud services, security, team leadership, and software architecture.
+As a seasoned Software Engineer and Development Team Lead, I have extensive experience in designing, developing, and managing complex software solutions across various industries, including SaaS applications, cloud migration platforms, and e-commerce solutions. My expertise spans frontend and backend development, cloud services, security, team leadership, and software architecture.
 
 **Software Architecture and Development**
 
